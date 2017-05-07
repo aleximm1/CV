@@ -1,16 +1,17 @@
 ## Alexander Imm
 
-I am a curious and enthusiastic Software Developer in training, who loves solving problems and I enjoy learning new technologies. I chose not to go to university and to instead focus on something in which both I have a genuine interest and could see myself doing for the rest of my life. I am looking for the opportunity to work as part of a skilled team working on large scale complex problems.
+I am a curious and enthusiastic Software Developer in training, who loves solving problems and learning new technologies. I chose not to go to university and instead to focus on something in which both I have a genuine interest and could see myself doing for the rest of my life. I am looking for the opportunity to work as part of a skilled team working on large scale complex problems.
 
 ## Skills
 
 #### Fast learner
 
-I feel am confident in my ability to pick up new technologies in a short amount of time
+I am confident in my ability to pick up new technologies quickly and apply the knowledge effectively. A good example of this being my practice project at Makers Academy where my group and I built a Google chrome extension.
 
-#### Problem solver
-
-
+- Tight deadline of less than 4 Days
+- First time using React, Node.js and Webpack
+- New to Mocha, Chai and Enzyme - used for testing
+- Completed the project on time
 
 #### Team player
 
@@ -20,14 +21,17 @@ I'm confident in working on my own but I also greatly appreciate the value of wo
 - Split off into pairs when appropriate to maximise efficiency
 - Communicated ideas effectively
 - Worked well as a team because of constant feedback
-- Completed the project on time
+
+#### Problem solver
+
+My ability to convert seemingly big challenges into smaller tasks that are well defined and achievable has greatly improved my organisation and efficiency when working on projects at Makers Academy. When handling smaller problems, such as errors and bugs, I aim to employ the best possible debugging processes to fix problems as quickly as possible.
 
 ## Projects
 
 #### Quizbot
 Description - A maths quiz app for the Amazon Echo. Collaborated with a company where we send quiz results to their api so that users can track their progress.
 
-Technologies - JavaScript, Node.js, AWS Lambda, Bespoken Tools, Alexa SDK, Mocha, Chai, Sinon, Request.
+Technologies - JavaScript, Node.js, AWS Lambda, Bespoken Tools, Alexa SDK, Mocha, Chai, Sinon, Request
 
 Timeframe - 9 Days
 
@@ -35,8 +39,11 @@ Github Repo - https://github.com/Noora-q/quizbot-alexa
 
 #### AJAB Chat
 Description - A Google Chrome extension that renders a chat bar on any website and allows users to chat with other users on the same website.
-Technologies - React, Node, Express, Webpack, Firebase, Mocha, Chai, Enzyme
+
+Technologies - React, Node.js, Webpack, Firebase, Mocha, Chai, Enzyme
+
 Timeframe - 4 Days
+
 Github Repo - https://github.com/JohnChangUK/AJAB-Chrome-Extension
 
 ## Education
@@ -52,7 +59,7 @@ Github Repo - https://github.com/JohnChangUK/AJAB-Chrome-Extension
 
 ## Experience
 
-**Midcounties co-op** (start_date '15 - March '16)    
+**Midcounties co-op** (start_date '15 - March '16)
 
 *Customer Service Assistant*
 
@@ -60,10 +67,6 @@ Github Repo - https://github.com/JohnChangUK/AJAB-Chrome-Extension
 
 *Part Time Warehouse & Dispatch Operative*
 
-Stocked and replenished merchandise according to warehouse layout
-
 **AEG Power Systems Singapore Office** (April '13)
 
 *Work Experience*
-
-Helped in the IT department during implementation of new IT system
