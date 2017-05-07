@@ -59,7 +59,7 @@ Github Repo - https://github.com/JohnChangUK/AJAB-Chrome-Extension
 
 ## Experience
 
-**Midcounties co-op** (start_date '15 - March '16)
+**Midcounties co-op** (August '15 - March '16)
 
 *Customer Service Assistant*
 
