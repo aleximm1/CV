@@ -6,16 +6,11 @@ I am a curious and enthusiastic Software Developer in training, who loves solvin
 
 #### Fast learner
 
-I am confident in my ability to pick up new technologies quickly and apply the knowledge effectively. A good example of this being my practice project at Makers Academy where my group and I built a Google chrome extension.
-
-- Tight deadline of less than 4 Days
-- First time using React, Node.js and Webpack
-- New to Mocha, Chai and Enzyme - used for testing
-- Completed the project on time
+I am confident in my ability to pick up new technologies quickly and apply the knowledge effectively. A good example of this being my practice project at Makers Academy where my group and I built a Google chrome extension. We had a tight deadline of 4 Days, it was our first time using React, Node.js and Webpack and we were all new to Mocha, Chai and Enzyme which we used for testing. Despite all of these new technologies we completed the project on time and achieved what we were aiming for.
 
 #### Team player
 
-I'm confident in working on my own but I also greatly appreciate the value of working as part of a team. During my final project at Makers Academy, my group and I decided to build a maths quiz skill for the amazon echo.
+I'm confident in working on my own but I also greatly appreciate the value of working as part of a team. During my final project at Makers Academy, my group and I decided to build a maths quiz skill for the amazon echo. To achieve this we:
 
 - Maintained a common headspace via regular stand-ups and retros
 - Split off into pairs when appropriate to maximise efficiency
