@@ -1,6 +1,6 @@
 ## Alexander Imm
 
-I am a curious and enthusiastic Software Developer in training, who loves solving problems and learning new technologies. I chose not to go to university and instead decided to focus on something in which both I have a genuine interest and could see myself doing for the rest of my life. I am looking for the opportunity to work as part of a skilled team working on large scale complex problems.
+I am a curious and enthusiastic Software Developer in training, who loves solving problems and learning new technologies. I chose not to go to university and instead decided to focus on something in which I have both a genuine interest and could develop into a career. I am looking for the opportunity to work as part of a skilled team working on large scale complex problems.
 
 ## Skills
 
